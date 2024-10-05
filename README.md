@@ -29,7 +29,7 @@ Welcome to **Blackjack**, the ultimate card game experience! Play against the de
    ```
 2. Navigate to the project directory:
    ```bash
-   cd black_jack_game
+   cd black_jack
    ```
 3. Run the game:
    ```bash
