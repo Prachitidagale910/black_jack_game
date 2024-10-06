@@ -1,4 +1,3 @@
-Here’s a short and sweet README file for your Blackjack game:
 
 ```markdown
 # Blackjack Game
